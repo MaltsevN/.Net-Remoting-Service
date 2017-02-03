@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummatorRemoteService", "SummatorRemoteService.csproj", "{CEA97944-FD8B-493A-A896-41A2418A3908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummatorHost", "SummatorHost\SummatorHost.csproj", "{BC30E435-F656-4C36-ACFE-7980DC3712BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummatorClient", "SummatorClient\SummatorClient.csproj", "{EEBABF3B-BABD-473C-A60D-7EF886C6C031}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEA97944-FD8B-493A-A896-41A2418A3908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEA97944-FD8B-493A-A896-41A2418A3908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEA97944-FD8B-493A-A896-41A2418A3908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEA97944-FD8B-493A-A896-41A2418A3908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC30E435-F656-4C36-ACFE-7980DC3712BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC30E435-F656-4C36-ACFE-7980DC3712BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC30E435-F656-4C36-ACFE-7980DC3712BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC30E435-F656-4C36-ACFE-7980DC3712BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBABF3B-BABD-473C-A60D-7EF886C6C031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBABF3B-BABD-473C-A60D-7EF886C6C031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBABF3B-BABD-473C-A60D-7EF886C6C031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBABF3B-BABD-473C-A60D-7EF886C6C031}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\bin\Debug\SummatorHost.exe.config
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\bin\Debug\SummatorHost.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\bin\Debug\SummatorHost.pdb
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\bin\Debug\SummatorRemoteService.dll
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\bin\Debug\SummatorRemoteService.pdb
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\obj\Debug\SummatorHost.csprojResolveAssemblyReference.cache
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\obj\Debug\SummatorHost.exe
+C:\Users\svezho\Documents\Visual Studio 2015\Projects\SummatorRemoteService\SummatorHost\obj\Debug\SummatorHost.pdb
